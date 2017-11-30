@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 # Geek
-Pierre HUVELIN
+=======
+DARK VADOR PLUS QUE TOI QUE C EST FORT!
